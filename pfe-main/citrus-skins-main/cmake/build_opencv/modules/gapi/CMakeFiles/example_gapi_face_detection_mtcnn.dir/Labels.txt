@@ -1,9 +1,0 @@
-# Target labels
- Main
- opencv_gapi
- Sample
-# Source files and their labels
-/Users/salim/Desktop/PFE/M2/pfe-main/citrus-skins-main/cmake/opencv/modules/gapi/samples/face_detection_mtcnn.cpp
- Main
- opencv_gapi
- Sample
