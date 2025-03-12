@@ -1,0 +1,9 @@
+# Target labels
+ Main
+ opencv_gapi
+ Sample
+# Source files and their labels
+/Users/salim/Desktop/PFE/M2/pfe-main/citrus-skins-main/cmake/opencv/modules/gapi/samples/infer_ssd_onnx.cpp
+ Main
+ opencv_gapi
+ Sample

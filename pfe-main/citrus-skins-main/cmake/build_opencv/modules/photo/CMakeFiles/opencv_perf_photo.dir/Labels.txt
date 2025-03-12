@@ -1,0 +1,29 @@
+# Target labels
+ Main
+ opencv_photo
+ PerfTest
+# Source files and their labels
+/Users/salim/Desktop/PFE/M2/pfe-main/citrus-skins-main/cmake/opencv/modules/photo/perf/opencl/perf_denoising.cpp
+ Main
+ opencv_photo
+ PerfTest
+/Users/salim/Desktop/PFE/M2/pfe-main/citrus-skins-main/cmake/opencv/modules/photo/perf/perf_cuda.cpp
+ Main
+ opencv_photo
+ PerfTest
+/Users/salim/Desktop/PFE/M2/pfe-main/citrus-skins-main/cmake/opencv/modules/photo/perf/perf_hdr.cpp
+ Main
+ opencv_photo
+ PerfTest
+/Users/salim/Desktop/PFE/M2/pfe-main/citrus-skins-main/cmake/opencv/modules/photo/perf/perf_inpaint.cpp
+ Main
+ opencv_photo
+ PerfTest
+/Users/salim/Desktop/PFE/M2/pfe-main/citrus-skins-main/cmake/opencv/modules/photo/perf/perf_main.cpp
+ Main
+ opencv_photo
+ PerfTest
+/Users/salim/Desktop/PFE/M2/pfe-main/citrus-skins-main/cmake/opencv/modules/photo/perf/perf_precomp.hpp
+ Main
+ opencv_photo
+ PerfTest
