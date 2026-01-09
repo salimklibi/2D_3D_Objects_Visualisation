@@ -1,6 +1,5 @@
 # 🖼️ 2D/3D Objects Visualisation Toolkit
 
-[ [ [ [
 
 **Visualiseur interactif 2D → 3D** pour objets géométriques, maillages, nuages de points et données territoriales. Convertit plots scientifiques en rendus 3D immersifs pour présentations académiques (MCDA, H2 infrastructure).
 
@@ -142,5 +141,5 @@ python demo/full_pipeline.py --data h2_regions.csv --output presentation/
 👨‍💻 Salim Klibi
 PhD Decision Science | Hydrogen Energy Systems
 Paris-Dauphine University | CNAM
-🆔 [salimklibi.github.io]https://github.com/salimklibi
+🆔 https://github.com/salimklibi
 ```
